@@ -1,4 +1,4 @@
-app = "veriaegis-landing"
+app = "veriaegis-ai"
 primary_region = "iad"
 
 [build]
